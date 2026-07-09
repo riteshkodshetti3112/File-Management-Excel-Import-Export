@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+media/**/*
+!media/employees/.gitkeep
+!media/documents/.gitkeep
+!media/reports/.gitkeep
+!media/id_cards/.gitkeep
+staticfiles/
+.env
+venv/
+.vscode/
+*.egg-info/
